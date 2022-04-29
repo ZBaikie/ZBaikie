@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZBaikie
 - 👀 I’m interested in all things IT, plants, cats and coffee! ✨
-- 🌱 I’m currently learning about Adaptive Business Intelligence and Managing IT Projects
-- 💞️ I’m looking to collaborate on Business Analytics and telling stories through data
+- 🌱 I’m currently studying a Postgraduate Diploma in Computing. 
+- 💞️ I’m looking to collaborate on Machine Learning projects.
 - 📫 Find me on LinkedIn: Zoe Baikie
 
 <!---
